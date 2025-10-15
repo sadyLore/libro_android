@@ -40,7 +40,7 @@
             android:layout_weight="1"
             android:background="@color/white"
             android:padding="16dp"
-            android:src="@layout/ic_search"
+            android:src="@drawable/ic_search"
             app:tint="@color/white" />
 
     </LinearLayout>
